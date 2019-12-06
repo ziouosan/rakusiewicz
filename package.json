@@ -1,0 +1,15 @@
+{
+  "name": "rakusiewicz.pl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepade": "https://ziouosan.github.io/rakusiewicz",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
