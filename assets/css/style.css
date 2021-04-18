@@ -3325,3 +3325,8 @@ textarea.form-control {
     font-size: 60px;
   }
 }
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
